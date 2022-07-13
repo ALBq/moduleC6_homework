@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(193, 237, 250);
+}
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 5px;
+    
+}
+.message{
+    grid-column: 1 / 4;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 500px;
+    border: 2px solid red;
+    border-radius: 5%;
+
+}
+.btn, .btnLoc {
+    max-width: 100px;
+    padding: 5px;
+    margin-top: 5px;
+
+
+}
+.face{
+    padding : 5px;
+    border-radius : 8px;
+    background-color: #72bb7c;
+    min-width: 100px;
+    
+    
+    
+   
+}

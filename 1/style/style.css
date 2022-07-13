@@ -1,0 +1,21 @@
+.btn{
+    display: flex;
+    flex-direction: row;
+    
+}
+.body1{
+    background-color: black;
+ }
+div{
+padding: 5px;
+}
+.svg1{
+    
+    color: orange;
+}
+.svg2{
+    display: none;
+}
+.svgnone{
+    display: none;
+}
